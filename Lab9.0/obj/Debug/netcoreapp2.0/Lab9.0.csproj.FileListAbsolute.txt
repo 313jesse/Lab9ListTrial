@@ -1,0 +1,11 @@
+C:\Users\jess7\source\repos\Lab9.0\Lab9.0\bin\Debug\netcoreapp2.0\Lab9.0.deps.json
+C:\Users\jess7\source\repos\Lab9.0\Lab9.0\bin\Debug\netcoreapp2.0\Lab9.0.runtimeconfig.json
+C:\Users\jess7\source\repos\Lab9.0\Lab9.0\bin\Debug\netcoreapp2.0\Lab9.0.runtimeconfig.dev.json
+C:\Users\jess7\source\repos\Lab9.0\Lab9.0\bin\Debug\netcoreapp2.0\Lab9.0.dll
+C:\Users\jess7\source\repos\Lab9.0\Lab9.0\bin\Debug\netcoreapp2.0\Lab9.0.pdb
+C:\Users\jess7\source\repos\Lab9.0\Lab9.0\obj\Debug\netcoreapp2.0\Lab9.0.csprojAssemblyReference.cache
+C:\Users\jess7\source\repos\Lab9.0\Lab9.0\obj\Debug\netcoreapp2.0\Lab9.0.csproj.CoreCompileInputs.cache
+C:\Users\jess7\source\repos\Lab9.0\Lab9.0\obj\Debug\netcoreapp2.0\Lab9.0.AssemblyInfoInputs.cache
+C:\Users\jess7\source\repos\Lab9.0\Lab9.0\obj\Debug\netcoreapp2.0\Lab9.0.AssemblyInfo.cs
+C:\Users\jess7\source\repos\Lab9.0\Lab9.0\obj\Debug\netcoreapp2.0\Lab9.0.dll
+C:\Users\jess7\source\repos\Lab9.0\Lab9.0\obj\Debug\netcoreapp2.0\Lab9.0.pdb
